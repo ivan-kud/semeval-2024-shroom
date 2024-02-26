@@ -1,0 +1,24 @@
+catboost==1.2.3
+huggingface-hub
+ipykernel
+ipywidgets
+nvitop
+numpy
+ochat==3.5.1
+optuna
+pandas
+python-dotenv
+requests
+scikit-learn
+scipy
+selfcheckgpt==0.1.4
+sentence-transformers
+torch
+transformers
+vllm
+## The following requirements are for 'roberta.large.mnli' model:
+hydra-core==1.3.2
+omegaconf==2.3.0
+bitarray==2.9.2
+tensorboardX==2.6.2.2
+sacrebleu==2.4.0
