@@ -38,7 +38,6 @@ For both tracks, all participants' submissions will be evaluated using two crite
 │   ├── st_roberta_nli      # Output from RoBERTa from sentence-transformers lib.
 │   ├── t5_inverse_nli      # Output from T5 (inverse NLI)
 │   └── t5_nli              # Output from T5 (NLI)
-├── postprocessing.ipynb
 ├── requirements.txt
 └── score.py                # Script to score output
 ```
