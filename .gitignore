@@ -1,7 +1,6 @@
 ####################
 # Your project rules
 ####################
-.DS_Store
 .vscode/
 data/
 catboost_info/
