@@ -1,0 +1,4 @@
+agnostic_acc:0.8233333333333334
+agnostic_rho:0.7565789706431015
+aware_acc:0.802
+aware_rho:0.7225252974349
