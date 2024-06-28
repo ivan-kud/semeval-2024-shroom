@@ -59,5 +59,5 @@ Provide paths to directories containing their submission file(s) and the corresp
 
 ## Referencies
 
-- [Our arcitcle about the developed system](https://placeholder)
-- [Organizers' article about the task](https://arxiv.org/abs/2403.07726)
+- [Our arcitcle about the developed system](https://aclanthology.org/2024.semeval-1.42)
+- [Organizers' article about the task](https://aclanthology.org/2024.semeval-1.273)
